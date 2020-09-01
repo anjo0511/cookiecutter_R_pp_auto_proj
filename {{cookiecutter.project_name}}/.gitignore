@@ -1,0 +1,15 @@
+
+
+data/*
+logs/*
+.snakemake/*
+config/.snakemake/*
+
+
+*.pdf
+*.Rproj
+*/.Rproj.user/*
+
+output/*
+
+.Rproj.user
